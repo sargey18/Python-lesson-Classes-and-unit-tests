@@ -1,4 +1,4 @@
-# Hogwarts School of Witchcraft and Wizardry: Learn Python and OOP
+# Hogwarts School of Witchcraft and Wizardry: Learn OOP and Unit Testing in Python
 
 Welcome to the enchanting world of Hogwarts! This educational project is designed to introduce young students to the fundamentals of Object-Oriented Programming (OOP) using Python,
 #framed within the magical universe of Harry Potter. As you venture through the halls of Hogwarts, you'll learn not only how to write Python code but also how to test it effectively using unit tests, 
